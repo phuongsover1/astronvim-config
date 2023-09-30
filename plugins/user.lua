@@ -9,7 +9,4 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
-  {
-    'shaunsingh/nord.nvim'
-  }
 }
